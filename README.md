@@ -45,7 +45,7 @@ The answer is simple- **WHY TO REINVENT THE WHEEL**
 video calls and screen sharing options.*
 
 Several channels can be created like- *finance, marketing, IT, Operations,Human Resource(HR) etc*
-Bots can also be added or created such as -*Statbot - server stats bot; Zita - reaction role bot; Apollo- scheduling bot; Helper GG - ticketing bot;Poll bot advanced-*
+Bots can also be added or created such as -*Statbot - server stats bot; Zita - reaction role bot; Apollo- scheduling bot; Helper GG - ticketing bot;Poll bot advanced*
 
 
 **Incentive and Reward System and scratch card system**
